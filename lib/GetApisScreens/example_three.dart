@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'Models/UserModel.dart';
+import 'package:api/GetApiModels//UserModel.dart';
 
 class ExampleThree extends StatefulWidget {
   const ExampleThree({super.key});
